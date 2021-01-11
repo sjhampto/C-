@@ -1,0 +1,3 @@
+﻿  U4_Blackjack_Modular.cpp
+C:\Users\sjham\Documents\School\Fall 2020\CSC 134\U4_Blackjack_Modular\U4_Blackjack_Modular\U4_Blackjack_Modular.cpp(116,13): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  U4_Blackjack_Modular.vcxproj -> C:\Users\sjham\Documents\School\Fall 2020\CSC 134\U4_Blackjack_Modular\Debug\U4_Blackjack_Modular.exe
